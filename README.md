@@ -5,6 +5,7 @@
 - clone repository
 - pip install fastapi uvicorn https dotenv
 - run the server using `uvicorn main:app --reload`
+- server running on `127.0.0.1:8000`
 
 - .env has following urls 
     HACKERNEWS_API_URL = "https://hacker-news.firebaseio.com/v0/newstories.json?print=pretty"
